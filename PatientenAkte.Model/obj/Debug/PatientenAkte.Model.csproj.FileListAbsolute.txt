@@ -1,0 +1,5 @@
+C:\Users\RENE\source\repos\PatientenAkte.Web\PatientenAkte.Model\bin\Debug\PatientenAkte.Model.dll
+C:\Users\RENE\source\repos\PatientenAkte.Web\PatientenAkte.Model\bin\Debug\PatientenAkte.Model.pdb
+C:\Users\RENE\source\repos\PatientenAkte.Web\PatientenAkte.Model\obj\Debug\PatientenAkte.Model.csproj.CoreCompileInputs.cache
+C:\Users\RENE\source\repos\PatientenAkte.Web\PatientenAkte.Model\obj\Debug\PatientenAkte.Model.dll
+C:\Users\RENE\source\repos\PatientenAkte.Web\PatientenAkte.Model\obj\Debug\PatientenAkte.Model.pdb
